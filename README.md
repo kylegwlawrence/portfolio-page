@@ -1,4 +1,5 @@
 # Kyle Lawrence - Project Portfolio
+LinkedIn: https://www.linkedin.com/in/kyle-lawrence/
 
 ## Python Projects
 ### Mario Kart Scoreboard OCR

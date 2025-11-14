@@ -2,7 +2,7 @@
 LinkedIn: https://www.linkedin.com/in/kyle-lawrence/
 
 ## Python Projects
-### Mario Kart Scoreboard OCR
+### Mario Kart Scoreboard OCR - built with Claude Code
 #### Problem: 
 - Mario Kart for Nintendo Switch doesn't have a way for you to track your races across multiple grand prix or VS race sessions.
 
